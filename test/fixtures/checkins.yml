@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  checkout: 2016-09-05 19:43:17
+  destination: one
+  user: one
+
+two:
+  checkout: 2016-09-05 19:43:17
+  destination: two
+  user: two
